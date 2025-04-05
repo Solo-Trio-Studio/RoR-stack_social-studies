@@ -1,0 +1,40 @@
+(Rank each of the lists.)
+
+
+Fantasy
+
+Magic
+aspects: source, cost, potency, commonality, accessibility, mastery.
+paths: Scientific, Artisan, Arcane, Natural, Legendary, Forbidden, Pantheon.
+
+One thing to rule them all
+priorities: reputation, attainability, complexity, potency, appearance.
+
+Five Factions
+type: State, Family, Clan, School, Company, Order.
+treasure: structure, place, text, rarity, skill, figure.
+
+Questover Country
+priorities: Beauty, Culture, Amenities, Wisdom, Secrets.
+
+
+Sci-Fi
+
+Time to Face the Strange
+innovation: Medicine, Transportation, Security, Communication.
+change: Social, Economic, Political, Personal.
+
+
+Horror
+
+Anatomy of a Monster
+definitions: nature, appearance, violence, vulnerabilities.
+
+
+X-Punk
+
+Style is Substance
+subgenre: Cyber, Steam, Diesel, Necro, Apocalyptic, Dungeon.
+
+Making a Megacorp
+basics: goods, services, assets, threats, corruptions.
